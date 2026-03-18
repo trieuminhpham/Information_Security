@@ -7,5 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(Play_Fair)
 add_subdirectory(GF2_10)
+add_subdirectory(RC4)
 
 
